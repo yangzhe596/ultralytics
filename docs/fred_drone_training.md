@@ -1,4 +1,6 @@
-# Fred Drone 数据集 YOLO12 训练指南
+# Fred Drone 数据集训练指南
+
+支持 YOLO12 和 RT-DETR 两种模型架构。
 
 ## 快速开始
 
@@ -113,13 +115,13 @@ python prepare_fred_dataset.py --samples 1000
 
 ## 模型训练
 
-### 训练脚本
+### YOLO12 训练
 
 ```bash
 python train_drone.py
 ```
 
-### 训练参数
+### YOLO12 训练参数
 
 | 参数 | 默认值 | 说明 |
 |------|--------|------|
@@ -128,6 +130,41 @@ python train_drone.py
 | batch | 16 | 批次大小 |
 | device | 0 | GPU 设备 ID |
 | pretrained | False | 是否使用预训练权重 |
+
+### RT-DETR 训练
+
+```bash
+python train_drone_rtdetr.py
+```
+
+RT-DETR 是实时检测 Transformer，提供更高的精度。
+
+**可用模型配置**：
+
+| 模型 | 配置文件 | 说明 |
+|------|----------|------|
+| RT-DETR-L | `rtdetr-l.yaml` | Large（默认） |
+| RT-DETR-X | `rtdetr-x.yaml` | Extra Large |
+| RT-DETR-R50 | `rtdetr-resnet50.yaml` | ResNet-50 backbone |
+| RT-DETR-R101 | `rtdetr-resnet101.yaml` | ResNet-101 backbone |
+
+切换模型：修改 `train_drone_rtdetr.py` 中的配置文件：
+
+```python
+model = RTDETR("rtdetr-x.yaml")  # 使用 X 版本
+```
+
+**RT-DETR 训练参数**：
+
+| 参数 | 默认值 | 说明 |
+|------|--------|------|
+| epochs | 15 | 训练轮数 |
+| imgsz | 640 | 输入图像尺寸 |
+| batch | 8 | 批次大小（比 YOLO 小） |
+| device | 0 | GPU 设备 ID |
+| pretrained | False | 是否使用预训练权重 |
+
+**常见警告**：训练时可能出现 `grid_sampler_2d_backward_cuda` 警告，这是 PyTorch 确定性模式的提示，不影响训练结果，可忽略。
 
 ### 训练输出
 
@@ -190,13 +227,18 @@ yolo export model=runs/detect/drone_yolo12n/weights/best.pt format=engine
 /mnt/data/code/ultralytics/
 ├── generate_splits.py        # 划分文件生成脚本
 ├── prepare_fred_dataset.py   # 数据准备脚本
-├── train_drone.py            # 训练脚本
+├── train_drone.py            # YOLO12 训练脚本
+├── train_drone_rtdetr.py     # RT-DETR 训练脚本
 ├── visualize_dataset.py      # 数据集可视化脚本
 ├── train.txt                 # 训练集划分
 ├── val.txt                   # 验证集划分
 ├── test.txt                  # 测试集划分
 └── runs/
-    └── drone_yolo12n/        # 训练输出
+    ├── drone_yolo12n/        # YOLO12 训练输出
+    │   └── weights/
+    │       ├── best.pt
+    │       └── last.pt
+    └── drone_rtdetr_l/       # RT-DETR 训练输出
         └── weights/
             ├── best.pt
             └── last.pt
