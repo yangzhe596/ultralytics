@@ -1,0 +1,160 @@
+/mnt/data/datasets/fred/19/PADDED_RGB/Video_19_19_07_51.278678.jpg 517,237,642,340,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_06_41.988225.jpg 788,370,833,407,0 658,41,710,83,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_48_22.691951.jpg 1083,436,1110,465,0
+/mnt/data/datasets/fred/30/PADDED_RGB/Video_30_19_45_43.342139.jpg 397,236,428,267,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_10.796760.jpg 866,256,934,303,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_12.996807.jpg 169,383,211,414,0
+/mnt/data/datasets/fred/0/PADDED_RGB/Video_0_16_04_34.617482.jpg 668,558,735,595,0
+/mnt/data/datasets/fred/3/PADDED_RGB/Video_3_16_46_50.754341.jpg 1108,306,1149,330,0
+/mnt/data/datasets/fred/22/PADDED_RGB/Video_22_19_02_31.688764.jpg 246,290,281,323,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_09_56.260060.jpg 606,300,664,337,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_09_14.018071.jpg 684,271,744,302,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_28_29.780688.jpg 941,103,1014,134,0
+/mnt/data/datasets/fred/20/PADDED_RGB/Video_20_19_14_52.725085.jpg 366,411,411,449,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_33_11.938375.jpg 312,263,347,298,0
+/mnt/data/datasets/fred/40/PADDED_RGB/Video_40_18_35_42.678944.jpg 1240,128,1280,158,0
+/mnt/data/datasets/fred/9/PADDED_RGB/Video_9_17_20_32.366845.jpg 742,320,793,344,0
+/mnt/data/datasets/fred/50/PADDED_RGB/Video_50_19_13_31.189949.jpg 588,233,642,270,0 568,380,603,410,0
+/mnt/data/datasets/fred/19/PADDED_RGB/Video_19_19_08_04.085561.jpg 739,446,791,484,0
+/mnt/data/datasets/fred/16/PADDED_RGB/Video_16_18_40_24.526345.jpg 1056,148,1186,188,0
+/mnt/data/datasets/fred/35/PADDED_RGB/Video_35_20_02_23.592344.jpg 563,69,621,101,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_49_28.633291.jpg 844,327,891,365,0
+/mnt/data/datasets/fred/42/PADDED_RGB/Video_42_18_44_36.808567.jpg 1187,192,1277,247,0
+/mnt/data/datasets/fred/15/PADDED_RGB/Video_15_18_34_22.626837.jpg 425,306,463,337,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_09_58.927501.jpg 495,306,526,330,0
+/mnt/data/datasets/fred/44/PADDED_RGB/Video_44_18_50_44.804420.jpg 846,241,926,292,0
+/mnt/data/datasets/fred/18/PADDED_RGB/Video_18_18_57_21.162888.jpg 864,397,939,446,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_48_01.120205.jpg 1046,374,1074,402,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_17_20.553568.jpg 380,216,406,235,0
+/mnt/data/datasets/fred/20/PADDED_RGB/Video_20_19_15_24.365779.jpg 715,561,779,607,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_52_15.988863.jpg 281,333,392,387,0 483,192,500,208,0
+/mnt/data/datasets/fred/22/PADDED_RGB/Video_22_19_02_59.462907.jpg 326,275,380,335,0
+/mnt/data/datasets/fred/31/PADDED_RGB/Video_31_19_47_52.613928.jpg 633,337,704,379,0
+/mnt/data/datasets/fred/4/PADDED_RGB/Video_4_16_52_32.425778.jpg 1095,409,1123,437,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_52_21.690776.jpg 293,237,420,280,0
+/mnt/data/datasets/fred/39/PADDED_RGB/Video_39_18_32_26.522883.jpg 873,221,911,279,0
+/mnt/data/datasets/fred/28/PADDED_RGB/Video_28_19_35_22.533201.jpg 618,320,709,358,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_52_11.049226.jpg 463,240,520,275,0 332,272,415,346,0
+/mnt/data/datasets/fred/47/PADDED_RGB/Video_47_18_59_23.970243.jpg 1259,96,1281,127,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_07_13.560682.jpg 470,79,519,124,0 653,338,690,373,0
+/mnt/data/datasets/fred/46/PADDED_RGB/Video_46_18_58_28.652545.jpg 777,285,872,326,0 1042,375,1147,416,0
+/mnt/data/datasets/fred/34/PADDED_RGB/Video_34_19_58_23.700938.jpg 709,201,805,239,0 882,214,950,273,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_24_07.544303.jpg 710,455,749,478,0
+/mnt/data/datasets/fred/25/PADDED_RGB/Video_25_19_21_47.354515.jpg 734,194,786,225,0
+/mnt/data/datasets/fred/12/PADDED_RGB/Video_12_17_37_05.538315.jpg 1226,120,1282,210,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_24_06.077399.jpg 960,422,1002,452,0
+/mnt/data/datasets/fred/17/PADDED_RGB/Video_17_18_49_52.466755.jpg 1256,233,1283,270,0
+/mnt/data/datasets/fred/3/PADDED_RGB/Video_3_16_45_38.940446.jpg 498,551,617,619,0
+/mnt/data/datasets/fred/22/PADDED_RGB/Video_22_19_03_18.400644.jpg 50,283,114,334,0
+/mnt/data/datasets/fred/7/PADDED_RGB/Video_7_17_03_15.214394.jpg -3,437,23,465,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_33_03.135603.jpg 201,271,230,295,0
+/mnt/data/datasets/fred/33/PADDED_RGB/Video_33_19_55_33.265184.jpg 371,243,436,274,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_55.066688.jpg 294,334,345,365,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_06_14.749111.jpg 372,134,420,172,0 114,107,152,133,0
+/mnt/data/datasets/fred/30/PADDED_RGB/Video_30_19_44_27.728386.jpg 318,139,388,184,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_10.938680.jpg 410,275,459,313,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_46.947412.jpg 710,412,746,444,0
+/mnt/data/datasets/fred/12/PADDED_RGB/Video_12_17_37_48.911550.jpg 841,520,883,550,0
+/mnt/data/datasets/fred/43/PADDED_RGB/Video_43_18_46_59.826291.jpg 794,278,861,309,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_28_13.243163.jpg 1214,220,1242,248,0
+/mnt/data/datasets/fred/3/PADDED_RGB/Video_3_16_45_40.273821.jpg 1121,464,1163,494,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_24.344617.jpg 547,484,586,518,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_09_05.950905.jpg 638,324,680,351,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_48_41.561111.jpg 884,360,914,389,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_43.383583.jpg 389,362,436,399,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_29_42.700985.jpg 314,245,405,302,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_09_58.627494.jpg 354,306,416,337,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_28_28.413996.jpg 790,303,842,333,0
+/mnt/data/datasets/fred/23/PADDED_RGB/Video_23_19_11_20.402953.jpg 579,304,606,333,0
+/mnt/data/datasets/fred/20/PADDED_RGB/Video_20_19_15_22.399072.jpg 809,341,854,379,0
+/mnt/data/datasets/fred/40/PADDED_RGB/Video_40_18_36_37.720103.jpg 1236,230,1286,283,0
+/mnt/data/datasets/fred/7/PADDED_RGB/Video_7_17_03_11.114162.jpg 802,313,849,344,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_24_38.414706.jpg 6,147,62,185,0
+/mnt/data/datasets/fred/19/PADDED_RGB/Video_19_19_07_30.808899.jpg 881,418,926,455,0
+/mnt/data/datasets/fred/47/PADDED_RGB/Video_47_19_01_06.083054.jpg 1256,135,1283,172,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_42_50.512728.jpg 939,249,1003,296,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_45.501400.jpg 553,306,611,337,0
+/mnt/data/datasets/fred/19/PADDED_RGB/Video_19_19_07_44.310408.jpg 644,449,718,487,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_05.608050.jpg 793,391,829,423,0
+/mnt/data/datasets/fred/25/PADDED_RGB/Video_25_19_21_00.143535.jpg 653,342,760,387,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_35.679061.jpg 352,273,454,331,0
+/mnt/data/datasets/fred/13/PADDED_RGB/Video_13_18_23_50.703106.jpg 911,246,1005,291,0
+/mnt/data/datasets/fred/12/PADDED_RGB/Video_12_17_37_46.044781.jpg 695,58,747,103,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_35.612393.jpg 283,306,360,344,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_07_16.661029.jpg 662,327,707,364,0 796,153,837,183,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_06_46.022267.jpg 656,160,708,190,0 697,146,715,166,0
+/mnt/data/datasets/fred/21/PADDED_RGB/Video_21_20_35_03.013108.jpg 710,487,758,534,0
+/mnt/data/datasets/fred/22/PADDED_RGB/Video_22_19_03_11.332515.jpg 219,247,267,277,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_29_24.725238.jpg 733,292,764,316,0
+/mnt/data/datasets/fred/34/PADDED_RGB/Video_34_19_59_19.112007.jpg 871,60,955,114,0 599,299,646,330,0
+/mnt/data/datasets/fred/23/PADDED_RGB/Video_23_19_10_57.995119.jpg 205,318,251,340,0
+/mnt/data/datasets/fred/9/PADDED_RGB/Video_9_17_20_48.636643.jpg 499,317,533,344,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_43_24.131867.jpg 744,207,853,259,0
+/mnt/data/datasets/fred/35/PADDED_RGB/Video_35_20_01_55.280308.jpg 244,397,281,426,0 435,172,550,236,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_10_11.229302.jpg 550,387,608,417,0
+/mnt/data/datasets/fred/2/PADDED_RGB/Video_2_16_35_13.303656.jpg 697,383,761,414,0
+/mnt/data/datasets/fred/15/PADDED_RGB/Video_15_18_34_57.666787.jpg 1059,296,1130,330,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_48_25.192244.jpg 628,348,664,383,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_10_15.796755.jpg 784,384,842,421,0
+/mnt/data/datasets/fred/41/PADDED_RGB/Video_41_18_40_00.312562.jpg 1027,222,1064,246,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_25_06.918248.jpg 462,390,505,414,0
+/mnt/data/datasets/fred/36/PADDED_RGB/Video_36_20_05_21.935495.jpg 375,197,440,243,0 886,179,946,231,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_35.445710.jpg 164,332,247,372,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_02.962805.jpg -1,214,36,261,0
+/mnt/data/datasets/fred/45/PADDED_RGB/Video_45_18_54_45.922796.jpg 995,111,1041,147,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_33.913690.jpg 618,360,655,388,0
+/mnt/data/datasets/fred/50/PADDED_RGB/Video_50_19_13_44.759256.jpg 761,388,796,419,0
+/mnt/data/datasets/fred/6/PADDED_RGB/Video_6_16_54_58.377345.jpg 723,349,768,381,0
+/mnt/data/datasets/fred/33/PADDED_RGB/Video_33_19_55_26.200530.jpg 573,228,695,289,0 13,272,28,287,0
+/mnt/data/datasets/fred/1/PADDED_RGB/Video_1_16_11_18.532324.jpg 610,471,655,501,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_52_08.682514.jpg 467,250,537,273,0 503,278,567,323,0
+/mnt/data/datasets/fred/0/PADDED_RGB/Video_0_16_03_53.005915.jpg 640,555,724,600,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_51_21.716371.jpg 981,186,1034,231,0
+/mnt/data/datasets/fred/40/PADDED_RGB/Video_40_18_36_04.180189.jpg 972,530,1068,583,0
+/mnt/data/datasets/fred/1/PADDED_RGB/Video_1_16_11_53.072382.jpg 864,426,938,471,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_25_05.519025.jpg 851,412,894,439,0
+/mnt/data/datasets/fred/40/PADDED_RGB/Video_40_18_35_52.579643.jpg 391,291,458,336,0
+/mnt/data/datasets/fred/47/PADDED_RGB/Video_47_19_00_15.976239.jpg 1195,145,1233,183,0 977,221,1031,270,0
+/mnt/data/datasets/fred/13/PADDED_RGB/Video_13_18_22_56.196896.jpg 414,285,459,312,0
+/mnt/data/datasets/fred/10/PADDED_RGB/Video_10_17_25_04.219000.jpg 630,365,701,406,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_49_30.099990.jpg 1093,331,1139,368,0
+/mnt/data/datasets/fred/0/PADDED_RGB/Video_0_16_04_37.417548.jpg 19,537,57,568,0
+/mnt/data/datasets/fred/3/PADDED_RGB/Video_3_16_46_47.586833.jpg 276,415,304,452,0
+/mnt/data/datasets/fred/1/PADDED_RGB/Video_1_16_12_48.094878.jpg 766,636,839,677,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_57.448533.jpg 614,229,645,266,0
+/mnt/data/datasets/fred/37/PADDED_RGB/Video_37_18_25_40.099184.jpg 998,182,1049,211,0
+/mnt/data/datasets/fred/34/PADDED_RGB/Video_34_19_58_48.737239.jpg 619,137,733,189,0
+/mnt/data/datasets/fred/5/PADDED_RGB/Video_5_16_47_48.521497.jpg 602,358,665,404,0
+/mnt/data/datasets/fred/4/PADDED_RGB/Video_4_16_51_44.880838.jpg 633,411,706,449,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_42_16.108805.jpg 40,334,100,372,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_31.964976.jpg 870,341,974,409,0
+/mnt/data/datasets/fred/13/PADDED_RGB/Video_13_18_22_31.191343.jpg 645,320,709,351,0
+/mnt/data/datasets/fred/11/PADDED_RGB/Video_11_17_31_54.681407.jpg 759,409,795,441,0
+/mnt/data/datasets/fred/34/PADDED_RGB/Video_34_19_59_26.482109.jpg 766,281,850,327,0
+/mnt/data/datasets/fred/9/PADDED_RGB/Video_9_17_20_26.032660.jpg 614,362,638,393,0
+/mnt/data/datasets/fred/43/PADDED_RGB/Video_43_18_47_18.994653.jpg 155,337,204,376,0
+/mnt/data/datasets/fred/46/PADDED_RGB/Video_46_18_58_06.214275.jpg 1190,239,1266,292,0 686,407,741,453,0
+/mnt/data/datasets/fred/30/PADDED_RGB/Video_30_19_44_28.195064.jpg 38,71,126,113,0
+/mnt/data/datasets/fred/49/PADDED_RGB/Video_49_19_10_56.459900.jpg 417,453,462,491,0 609,198,664,235,0
+/mnt/data/datasets/fred/32/PADDED_RGB/Video_32_19_50_54.845587.jpg 1126,172,1193,224,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_16_57.283640.jpg 313,341,343,368,0
+/mnt/data/datasets/fred/48/PADDED_RGB/Video_48_19_07_28.797998.jpg 555,235,619,268,0 640,221,668,256,0
+/mnt/data/datasets/fred/14/PADDED_RGB/Video_14_18_28_16.611761.jpg 792,285,838,329,0
+/mnt/data/datasets/fred/8/PADDED_RGB/Video_8_17_10_14.196725.jpg 853,348,905,371,0
+/mnt/data/datasets/fred/25/PADDED_RGB/Video_25_19_21_47.287847.jpg 755,187,800,225,0
+/mnt/data/datasets/fred/49/PADDED_RGB/Video_49_19_11_22.461875.jpg 621,380,655,403,0 508,152,555,183,0
+/mnt/data/datasets/fred/0/PADDED_RGB/Video_0_16_04_22.913689.jpg 1141,502,1199,533,0
+/mnt/data/datasets/fred/24/PADDED_RGB/Video_24_19_17_12.952574.jpg 588,434,659,490,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_48.702207.jpg 726,356,794,408,0
+/mnt/data/datasets/fred/2/PADDED_RGB/Video_2_16_34_28.197430.jpg 789,397,813,421,0
+/mnt/data/datasets/fred/34/PADDED_RGB/Video_34_19_59_12.877404.jpg 625,188,716,225,0 655,292,711,327,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_43_21.998461.jpg 512,270,606,317,0
+/mnt/data/datasets/fred/46/PADDED_RGB/Video_46_18_56_54.904671.jpg 730,366,767,403,0
+/mnt/data/datasets/fred/31/PADDED_RGB/Video_31_19_47_48.780283.jpg 578,292,623,329,0
+/mnt/data/datasets/fred/26/PADDED_RGB/Video_26_19_27_09.809668.jpg 419,366,453,396,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_42_57.280047.jpg 603,215,653,246,0
+/mnt/data/datasets/fred/45/PADDED_RGB/Video_45_18_55_22.560592.jpg 1153,230,1240,260,0
+/mnt/data/datasets/fred/29/PADDED_RGB/Video_29_19_42_54.012797.jpg 732,220,767,248,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_33_41.342634.jpg 877,109,954,180,0
+/mnt/data/datasets/fred/15/PADDED_RGB/Video_15_18_35_33.275745.jpg 1256,120,1283,164,0
+/mnt/data/datasets/fred/27/PADDED_RGB/Video_27_19_32_08.662925.jpg 354,330,401,368,0
