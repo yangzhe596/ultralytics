@@ -159,6 +159,21 @@ yolo predict model=runs/detect/drone_yolo12n/weights/best.pt source=video.mp4
 yolo val model=runs/detect/drone_yolo12n/weights/best.pt data=/mnt/data/datasets/fred_drone/fred_drone.yaml
 ```
 
+## 数据集可视化
+
+```bash
+# 显示随机样本（交互模式，按任意键继续，q 退出）
+python visualize_dataset.py --split train --num 10
+
+# 保存可视化结果到目录
+python visualize_dataset.py --save --output ./vis_results
+
+# 查看验证集
+python visualize_dataset.py --split val --num 5 --save
+```
+
+可视化结果会显示绿色边界框标注无人机位置。
+
 ## 模型导出
 
 ```bash
@@ -176,6 +191,7 @@ yolo export model=runs/detect/drone_yolo12n/weights/best.pt format=engine
 ├── generate_splits.py        # 划分文件生成脚本
 ├── prepare_fred_dataset.py   # 数据准备脚本
 ├── train_drone.py            # 训练脚本
+├── visualize_dataset.py      # 数据集可视化脚本
 ├── train.txt                 # 训练集划分
 ├── val.txt                   # 验证集划分
 ├── test.txt                  # 测试集划分
