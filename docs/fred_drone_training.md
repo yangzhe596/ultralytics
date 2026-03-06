@@ -6,10 +6,10 @@
 # 激活环境
 conda activate yolo
 
-# 1. 准备数据集划分文件 (train.txt, val.txt, test.txt)
-# 格式: /path/to/image.jpg x1,y1,x2,y2,class [x1,y1,x2,y2,class ...]
+# 1. 生成数据集划分文件
+python generate_splits.py
 
-# 2. 生成数据集
+# 2. 生成数据集目录结构
 python prepare_fred_dataset.py --train train.txt --val val.txt --test test.txt
 
 # 3. 训练模型
@@ -41,6 +41,27 @@ python -c "import torch; print(f'PyTorch: {torch.__version__}'); print(f'CUDA: {
 ```
 
 ## 数据准备
+
+### 生成划分文件
+
+```bash
+# 扫描数据集并生成 train.txt, val.txt, test.txt
+python generate_splits.py
+
+# 限制样本数量 (用于快速测试)
+python generate_splits.py --samples 1000
+
+# 自定义划分比例 (默认 80/10/10)
+python generate_splits.py --train-ratio 0.8 --val-ratio 0.1
+
+# 指定输出目录
+python generate_splits.py --output /path/to/output
+```
+
+默认划分结果：
+- train.txt: 78,698 样本 (80%)
+- val.txt: 9,837 样本 (10%)
+- test.txt: 9,838 样本 (10%)
 
 ### 数据划分文件格式
 
@@ -152,6 +173,7 @@ yolo export model=runs/detect/drone_yolo12n/weights/best.pt format=engine
 
 ```
 /mnt/data/code/ultralytics/
+├── generate_splits.py        # 划分文件生成脚本
 ├── prepare_fred_dataset.py   # 数据准备脚本
 ├── train_drone.py            # 训练脚本
 ├── train.txt                 # 训练集划分
